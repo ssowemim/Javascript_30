@@ -12,6 +12,6 @@ Just a simple HTML, CSS & JS folder - right click index.html and open with brows
 - **[whiteboard](https://whiteboard.ssowemimo.com)** gives you a clear white board that lets you click and draw on the whiteboard 
 - **[clock](https://clock.ssowemimo.com)** gives you a real time clock
 - **[cssvar](https://cssvar.ssowemimo.com)** nice trick that lets you mess around with CSS using JS
-- **[clickndrag](https://clickndrag.ssowemimo.com)** to the right, to the right
+- **[clickndrag](https://clickndrag.ssowemimo.com)** to the right, to the right - click n drag to the right or left
 
 
