@@ -1,8 +1,9 @@
-git <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Scoped CSS Variables and JS</title>
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata|Indie+Flower" rel="stylesheet">
 </head>
 <body>
   <h2>Update CSS Variables with <span class='hl'>JS</span></h2>
@@ -18,9 +19,24 @@ git <!DOCTYPE html>
     <input id="base" type="color" name="base" value="#ffc600">
   </div>
 
-  <img src="https://source.unsplash.com/7bwQXzbF6KE/800x500">
+  <img src="https://images.pexels.com/photos/558377/pexels-photo-558377.jpeg?dl&fit=crop&w=800&h=500, https://www.pexels.com/photo/abstract-art-artistic-assortment-558377/">
 
   <style>
+    :root {
+      --base: #ffc600;
+      --spacing: 10px;
+      --blur: 0px;
+    }
+
+    img {
+      padding: var(--spacing);
+      background: var(--base);
+      filter: blur(var(--blur));
+    }
+
+    .hl {
+      color: var(--base);
+    }
 
     /*
       misc styles, nothing to do with CSS variables
@@ -30,7 +46,7 @@ git <!DOCTYPE html>
       text-align: center;
       background: #193549;
       color: white;
-      font-family: 'helvetica neue', sans-serif;
+      font-family: 'Inconsolata', monospace;
       font-weight: 100;
       font-size: 50px;
     }
@@ -45,6 +61,20 @@ git <!DOCTYPE html>
   </style>
 
   <script>
+
+      const inputs = document.querySelectorAll('.controls input');
+
+
+      function handleUpdate() {
+
+          const suffix = this.dataset.sizing || '';
+          document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix);
+      }
+
+      inputs.forEach(input => input.addEventListener('change', handleUpdate));
+      inputs.forEach(input => input.addEventListener('mousemove', handleUpdate));
+
+
   </script>
 
 </body>
