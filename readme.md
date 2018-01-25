@@ -8,10 +8,10 @@ Just a simple HTML, CSS & JS folder - right click index.html and open with brows
 
 
 ## PROJECTS
-- **drumkit** depending on certain keys on the keyboard are pressed a section of the drum kit is played | [drumkit.ssowemimo.com](https://drumkit.ssowemimo.com) 
-- **whiteboard** gives you a clear white board that lets you click and draw on the whiteboard | [whiteboard.ssowemimo.com](https://whiteboard.ssowemimo.com)
-- **clock**
-- **cssvar** 
-- **clickndrag**
+- **[drumkit](https://drumkit.ssowemimo.com)** depending on certain keys on the keyboard are pressed a section of the drum kit is played 
+- **[whiteboard](https://whiteboard.ssowemimo.com)** gives you a clear white board that lets you click and draw on the whiteboard 
+- **[clock](https://clock.ssowemimo.com)** gives you a real time clock
+- **[cssvar](https://cssvar.ssowemimo.com)** nice trick that lets you mess around with CSS using JS
+- **[clickndrag](https://clickndrag.ssowemimo.com)** to the right, to the right
 
 
