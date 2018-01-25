@@ -4,7 +4,7 @@ This folder consists of several javascript projects built to showcase using HTML
 ## INSTRUCTIONS
 Just a simple HTML, CSS & JS folder - right click index.html and open with browser
 
-- updated Jan 24, 2018
+- updated Jan 25, 2018
 
 
 ## PROJECTS
