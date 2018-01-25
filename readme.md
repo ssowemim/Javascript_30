@@ -14,4 +14,5 @@ Just a simple HTML, CSS & JS folder - right click index.html and open with brows
 - **[cssvar](https://cssvar.ssowemimo.com)** nice trick that lets you mess around with CSS using JS
 - **[clickndrag](https://clickndrag.ssowemimo.com)** to the right, to the right - click n drag to the right or left
 
-- **TODO** Uncompleted projects to do.
+#### **TODO** 
+Uncompleted projects left.
