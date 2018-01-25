@@ -15,4 +15,4 @@ Just a simple HTML, CSS & JS folder - right click index.html and open with brows
 - **[clickndrag](https://clickndrag.ssowemimo.com)** to the right, to the right - click n drag to the right or left
 
 #### **TODO** 
-Uncompleted projects left.
+Uncompleted projects left in this folder.
