@@ -4,7 +4,7 @@ This folder consists of several javascript projects built to showcase using HTML
 ## INSTRUCTIONS
 Just a simple HTML, CSS & JS folder - right click index.html and open with browser
 
-- updated Jan 28, 2018
+- updated Jan 29, 2018
 
 
 ## PROJECTS
@@ -14,7 +14,8 @@ Just a simple HTML, CSS & JS folder - right click index.html and open with brows
 - **[cssvar](https://cssvar.ssowemimo.com)** nice trick that lets you mess around with CSS using JS
 - **[clickndrag](https://clickndrag.ssowemimo.com)** to the right, to the right - click n drag to the right or left
 - **[stickynav](https://stickynav.ssowemimo.com)** navigation menu sticks to the top w/ a nice logo slide in feature
-- **[slick-nav-menu](https://slick-nav-menu.ssowemimo.com)** has a nice highlight feature that follows the mouse on any link hover 
+- **[slick-nav-menu](https://slick-nav-menu.ssowemimo.com)** has a nice highlight feature that follows the mouse on any link hover
+- **[typeahead](https://typeahead.ssowemimo.com)** nice search feature that gives you a responsive drop down of your search result as you type 
 
 #### **TODO** 
 Uncompleted projects left in this folder.
