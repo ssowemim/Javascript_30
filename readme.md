@@ -16,6 +16,7 @@ Just a simple HTML, CSS & JS folder - right click index.html and open with brows
 - **[stickynav](https://stickynav.ssowemimo.com)** navigation menu sticks to the top w/ a nice logo slide in feature
 - **[slick-nav-menu](https://slick-nav-menu.ssowemimo.com)** has a nice highlight feature that follows the mouse on any link hover
 - **[typeahead](https://typeahead.ssowemimo.com)** nice search feature that gives you a responsive drop down of your search result as you type 
+- **[countdown](https://countdown.ssowemimo.com)** no better way to showcase you knowledge for a programming language than to make a timer!
 
 #### **TODO** 
 Uncompleted projects left in this folder.
