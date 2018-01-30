@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   font-size: 10px;
   background: #8E24AA;
-  background: linear-gradient(45deg,  #42a5f5 0%,#478ed1 50%,#0d47a1 100%);
+  background: linear-gradient(45deg,  #1d3461 0%,#1f487e 50%,#376996 100%);
 }
 
 *, *:before, *:after {
