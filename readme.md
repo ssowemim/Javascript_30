@@ -17,6 +17,7 @@ Just a simple HTML, CSS & JS folder - right click index.html and open with brows
 - **[slick-nav-menu](https://slick-nav-menu.ssowemimo.com)** has a nice highlight feature that follows the mouse on any link hover
 - **[typeahead](https://typeahead.ssowemimo.com)** nice search feature that gives you a responsive drop down of your search result as you type 
 - **[countdown](https://countdown.ssowemimo.com)** no better way to showcase your knowledge for a programming language than to create a countdown timer!
+- **keysequence** combination of certain keys to run a hidden command
 
 #### **TODO** 
 Uncompleted projects left in this folder.
