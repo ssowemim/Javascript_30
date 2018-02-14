@@ -18,6 +18,7 @@ Just a simple HTML, CSS & JS folder - right click index.html and open with brows
 - **[typeahead](https://typeahead.ssowemimo.com)** nice search feature that gives you a responsive drop down of your search result as you type 
 - **[countdown](https://countdown.ssowemimo.com)** no better way to showcase your knowledge for a programming language than to create a countdown timer!
 - **keysequence** combination of certain keys to run a hidden command
+- **sortingArticles** sorting a list of possible Title, Songs, Movie Titles while ignoring the 'A, The, An' so its not taken into consideration in sorting
 
 #### **TODO** 
 Uncompleted projects left in this folder.
